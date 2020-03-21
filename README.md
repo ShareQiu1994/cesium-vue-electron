@@ -3,7 +3,7 @@
 </p>
 
   <p align="center">基于vueCli 4.2.3 和 electron 6.0.0+ 的cesium开发模板
-Cesium development template based on vuecli 4.2.3 and electron 6.0.0 + (Cesium development template based on vueCli 4.2.3 and electron 6.0.0 +)</p>
+ (Cesium development template based on vueCli 4.2.3 and electron 6.0.0 +)</p>
    <p align="center">
 
 # cesium-vue-electron
