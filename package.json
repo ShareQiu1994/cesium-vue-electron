@@ -1,5 +1,7 @@
 {
   "name": "cesium-vue-electron",
+  "description": "cesium-vue-electron",
+  "author": "liubf",
   "version": "0.1.0",
   "private": true,
   "scripts": {

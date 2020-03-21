@@ -35,7 +35,7 @@ function createWindow() {
     // Load the index.html when not in development
     win.loadURL('app://./index.html')
   }
-
+  win.setMenu(null) // 去掉默认菜单
   win.on('closed', () => {
     win = null
   })
