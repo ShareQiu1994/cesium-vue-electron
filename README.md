@@ -2,7 +2,7 @@
 <img src="https://github.com/CesiumGS/cesium/wiki/logos/Cesium_Logo_Color.jpg" width="50%" />
 </p>
 
-  <p align="center">基于vueCli 4.2.3 和 electron 6.0.0+ 的cesium开发模板 (Cesium development template based on vueCli 4.2.3 and electron 6.0.0 +)</p>
+  <p align="center">基于vueCli 4.x.x + 和 electron 6.x.x+ 的cesium开发模板 (Cesium development template based on vueCli 4.x.x + and electron 6.x.x +)</p>
    <p align="center">
 
 # cesium-vue-electron
